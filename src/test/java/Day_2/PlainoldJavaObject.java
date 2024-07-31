@@ -5,13 +5,13 @@ public class PlainoldJavaObject {
 	String  phone1;
 	String  location;
 	String  courses[];
-	String  name;
+	String  name1;
 	
 	public String getName() {
-		return name;
+		return name1;
 	}
 	public void setName(String name) {
-		this.name = name;
+		this.name1 = name;
 	}
 	public String getPhone() {
 		return phone1;
