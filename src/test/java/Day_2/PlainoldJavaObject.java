@@ -2,7 +2,7 @@ package Day_2;
 
 public class PlainoldJavaObject {
 	
-	String  phone;
+	String  phone1;
 	String  location;
 	String  courses[];
 	String  name;
@@ -14,10 +14,10 @@ public class PlainoldJavaObject {
 		this.name = name;
 	}
 	public String getPhone() {
-		return phone;
+		return phone1;
 	}
 	public void setPhone(String phone) {
-		this.phone = phone;
+		this.phone1 = phone;
 	}
 	public String getLocation() {
 		return location;
